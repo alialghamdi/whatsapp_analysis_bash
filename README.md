@@ -11,18 +11,18 @@ I was bored of trying to work emojis in bash, so I used the help of the best lan
 I started with Android, then adapted the code to work with iOS, I'm expecting weird behavior, especially with big groups, more than 20 persons. 
 
 # What does it do?
-1- Number of messages
-2- Time frequency in hours. 
-3- First and last day. 
-4- Top used emojis
-5- Top used words ...and more. 
+* Number of messages
+* Time frequency in hours. 
+* First and last day. 
+* Top used emojis
+* Top used words ...and more. 
 
 
 # How can you run it?
-1- Make sure script.sh and emoji.py are in the same directory. 
-2- Export the Whatsapp conversation to .txt, if you don't know how to, google?
-3- Make sure you have +x privileges. 
-4- ./script.sh whatsapp_coversation.txt (it only works with a parameter, which in this case is the conversation exported)
-5- If it doesn't work, especially with devices other than Mac OSX, I'm not sure how I can help, since I used only commands that work with Mac OSX, I'm sorry. 
+1. Make sure script.sh and emoji.py are in the same directory. 
+2. Export the Whatsapp conversation to .txt, if you don't know how to, google?
+3. Make sure you have +x privileges. 
+4. ./script.sh whatsapp_coversation.txt (it only works with a parameter, which in this case is the conversation exported)
+5. If it doesn't work, especially with devices other than Mac OSX, I'm not sure how I can help, since I used only commands that work with Mac OSX, I'm sorry. 
 
 
