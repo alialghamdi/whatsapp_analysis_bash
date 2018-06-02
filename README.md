@@ -1,5 +1,8 @@
 # Whatsapp Analysis using Bash
 
+## You can use the website that I made using this script as a backend. 
+[Whatsapp Analysis Website](https://what.alialghamdi.com)
+
 This is a weekend project, a bit more than a weekend. :)
 
 The whole reason I started this was curiosity before finding there are many tools doing the same thing, but that doesn't stop me. 
@@ -25,4 +28,6 @@ I started with Android, then adapted the code to work with iOS, I'm expecting we
 4. ./script.sh whatsapp_coversation.txt (it only works with a parameter, which in this case is the conversation exported)
 5. If it doesn't work, especially with devices other than Mac OSX, I'm not sure how I can help, since I used only commands that work with Mac OSX, I'm sorry. 
 
+So this is the end of the project, it was fun. 
 
+If you need any help with anything related, hit me up on twitter @alialghamdi
