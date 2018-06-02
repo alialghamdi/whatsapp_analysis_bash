@@ -13,6 +13,8 @@ I was bored of trying to work emojis in bash, so I used the help of the best lan
 
 I started with Android, then adapted the code to work with iOS, I'm expecting weird behavior, especially with big groups, more than 20 persons. 
 
+There is a lot of bad practices in this code, it's a learning experience not a finalized product, so take it as that. 
+
 # What does it do?
 * Number of messages
 * Time frequency in hours. 
