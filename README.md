@@ -1,8 +1,5 @@
 # Whatsapp Analysis using Bash
 
-## You can use the website that I made using this script as a backend. 
-[Whatsapp Analysis Website](https://what.alialghamdi.com)
-
 This is a weekend project, a bit more than a weekend. :)
 
 The whole reason I started this was curiosity before finding there are many tools doing the same thing, but that doesn't stop me. 
